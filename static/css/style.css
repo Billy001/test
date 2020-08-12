@@ -12,7 +12,7 @@
 
                                 .bg {
                                 /* The image used */
-                                
+
                                 background-position: center center;
                                 background-color: #fafaff;
 
@@ -234,7 +234,7 @@
                                 @media screen and (max-width: 500px) {
 
                                     body{
-                                        background-image: url(image/covidbg.png);
+                                        
                                     }
                                 /* start of phone styles */
                                         .logo img{
