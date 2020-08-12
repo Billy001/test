@@ -101,6 +101,7 @@
 
                                 #sticky-footer {
                                 flex-shrink: none;
+
                                     }
 
 
@@ -157,10 +158,13 @@
                                 }
                                 h1{
                                 margin:0px;
-                                    padding:10px;
+                                padding:10px;
                                 }
 
-
+                                .top-heading {
+                                  font-family: 'Montserrat', sans-serif;
+                                  font-size: 30px;
+                                }
 
                                 /* *********************************************************************************  Chart    *************************************************************************  */
 
